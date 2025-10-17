@@ -6,6 +6,7 @@
 - Project submission deadlines are: Feb 8 (first take), and Mar 1 (second take).
 
 Project Details
+
 It is required that data be independently collected, and the topic should be proposed following consultation with the course instructor.
 The project requires the application of at least one dictionary- or corpus-based, and at least one supervised sentiment analysis method, optimisation of the hyperparameters of the latter, and a concise presentation of the obtained results.
 Jupyter Notebook form of the report is preferred.
@@ -19,6 +20,7 @@ The evaluation shall be based on:
 - The structure and organisation of the report
 
 Presentation Details
+
  The purpose of the presentation is to verify whether students are working independently and understand the fundamental concepts discussed during the course. Therefore, one can expect questions regarding the basics of sentiment analysis.
  No presentation implies no credit.
  The evaluation shall be based on:
